@@ -24,7 +24,7 @@ The project has three main parts:
 
 ## 💻 How to View the Project
 
-Even if you’re not technical, here’s how you can open and see the project on your computer:
+ Here’s how you can open and see the project on your computer:
 
 1. **Download or clone** this repository to your computer.
 2. Open the folder.
